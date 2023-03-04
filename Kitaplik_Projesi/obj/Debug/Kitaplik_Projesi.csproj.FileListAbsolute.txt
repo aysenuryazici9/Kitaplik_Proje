@@ -1,0 +1,21 @@
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe.config
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Form1.resources
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Properties.Resources.resources
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.exe
+C:\Users\90536\Desktop\A-Z'yeC#\Kitaplik_Projesi\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe.config
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Form1.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Properties.Resources.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.pdb
